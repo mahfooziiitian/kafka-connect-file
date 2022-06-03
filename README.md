@@ -1,6 +1,7 @@
 # kafka-connect-file
 This is step by step demo for kafka connect for file data source.
 
+
 STEP 1:  Download the kafka.
     Download the kafka from https://www.apache.org/dyn/closer.cgi?path=/kafka/3.0.0/kafka_2.13-3.0.0.tgz and extract it as given below.
    
